@@ -4,21 +4,21 @@ This project is a certificate generator built with React and Bootstrap. It allow
 
 ## Introduction
 
-This project was developed during my internship period at Imbuesoft LLP under the guidance of Dr.Prakash Gujarati. The internship provided valuable hands-on experience in ReactJS development and helped me enhance my skills in frontend web development.
+This project was developed during my internship period at Imbuesoft LLP under the guidance of Dr. Prakash Gujarati. The internship provided valuable hands-on experience in ReactJS development and helped me enhance my skills in frontend web development.
 
 ## Installation
 
 To run the project locally, follow these steps:
 
-1. Clone the repository:
+1. Clone the repository.
 
-2. Navigate to the project directory:
+2. Navigate to the project directory.
 
-3. Install the dependencies:
+3. Install the dependencies.
 
 ## Usage
 
-1. Start the development server:
+1. Start the development server.
 
 2. Open your browser and visit `http://localhost:3000` to access the certificate generator.
 
@@ -29,6 +29,12 @@ To run the project locally, follow these steps:
 5. Click the "Generate Certificate" button to generate the certificate with the entered details.
 
 6. The generated certificate will be displayed on the screen, and you can download it by clicking the "Download Certificate" button.
+
+Please note: For the best viewing experience, please open the demo link on a PC or laptop screen.
+
+## Deployment
+
+You can access the deployed version of this project at [Demo Link](https://mirajsankdecha.github.io/Certificate-generator-react/build/).
 
 ## Customization
 
@@ -50,4 +56,4 @@ Imbuesoft LLP is a software development company specializing in web and mobile a
 
 ## Acknowledgements
 
-I would like to express my gratitude to Dr.Prakash Gujarati for his guidance and support throughout my internship period. His expertise and mentorship have been instrumental in my learning and growth as a React developer.
+I would like to express my gratitude to Dr. Prakash Gujarati for his guidance and support throughout my internship period. His expertise and mentorship have been instrumental in my learning and growth as a React developer.
