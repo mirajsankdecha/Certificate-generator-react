@@ -1,0 +1,55 @@
+.certificate-generator {
+  font-family: Arial, sans-serif;
+}
+
+.generated-image-container {
+  position: relative;
+}
+
+.vertical-input-container {
+  position: absolute;
+  top: 50%;
+  left: -60px;
+  transform: translate(-50%, -50%);
+}
+
+.horizontal-input-container {
+  position: absolute;
+  bottom: -40px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.name-marker {
+  position: absolute;
+  width: 2px;
+  height: 20px;
+  background-color: red;
+}
+
+.navbar {
+  background-color: #333;
+  padding: 10px;
+}
+
+.navbar-brand img {
+  max-width: 100%;
+}
+
+.navbar .nav-item {
+  display: flex;
+  align-items: center;
+  margin-right: 15px;
+  color: #fff;
+}
+
+.navbar .nav-item input[type="text"],
+.navbar .nav-item input[type="range"],
+.navbar .nav-item input[type="color"],
+.navbar .nav-item select {
+  margin-left: 5px;
+}
+
+.navbar .btn {
+  margin-left: 5px;
+}
