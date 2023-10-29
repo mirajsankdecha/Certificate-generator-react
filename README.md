@@ -1,59 +1,111 @@
-# Certificate Generator using Bootstrap
+<h1 align="center">
+  <a href="certificate-generator-react-six.vercel.app" target="_blank">
+    <img src="https://github.com/mirajsankdecha/Certificate-generator-react/blob/main/public/logo.png" alt="Certificate Generator" width="300">
+  </a>
+  <br>
+</h1>
 
-This project is a certificate generator built with React and Bootstrap. It allows you to generate custom certificates by filling in the recipient's details and choosing a template.
+<p align="center">
+  <a href="https://mirajsankdecha.github.io/Portfolio/build/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Miraj Sankdecha Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/mirajsankdecha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Miraj Sankdecha LinkedIn" />
+  </a>
+  <a href="https://twitter.com/mirajsankdecha" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Miraj Sankdecha Twitter" />
+  </a>
+  <a href="https://www.instagram.com/mirajgajjar731/?igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Miraj Sankdecha Instagram" />
+  </a> 
+</p>
 
-## Introduction
 
-This project was developed during my internship period at Imbuesoft LLP under the guidance of Dr. Prakash Gujarati. The internship provided valuable hands-on experience in ReactJS development and helped me enhance my skills in frontend web development.
+---
 
-## Installation
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+## :arrow_right: **Live App Demo** : [certificate-generator-react-six.vercel.app](certificate-generator-react-six.vercel.app)
+
+## :pencil: Introduction
+
+"Certificate Generator" is a user-friendly ReactJS application integrated with Bootstrap, facilitating the seamless creation of customized certificates. Users can upload their certificate templates, add names, and modify font styles, colors, sizes, and text formatting, ultimately downloading the personalized certificates with ease.
+
+## :mag: Project Overview
+
+### :dart: Objectives
+
+Designed with the aim of simplifying the certificate creation process, "Certificate Generator" allows users to:
+
+1. **Upload Templates:** Easily upload certificate templates to the platform.
+2. **Personalize Certificates:** Add names and customize fonts, colors, sizes, and text formatting.
+3. **Download Custom Certificates:** Conveniently download the personalized certificates in the desired format.
+
+## :information_source: Project Details
+
+### :computer: Development Environment
+
+- **Front-End Tools:** Visual Studio Code (VS Code)
+- **Back-End Tools:** Command Prompt
+- **Operating System:** Windows 11
+- **Debugging Tools:** Chrome Development Tools
+
+### :man_technologist: Developer Information
+
+- **Developer:** Miraj Sankdecha
+- **Mobile:** +91 8511411930
+- **Email:** mirajsankdecha@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/mirajsankdecha/
+- **X:** https://x.com/mirajsankdecha
+
+## :rocket: Features
+
+"Certificate Generator" enables users to:
+
+- **Upload Templates:** Easily upload certificate templates for customization.
+- **Customize Details:** Add names and modify font styles, colors, sizes, and text formatting.
+- **Download Custom Certificates:** Download the personalized certificates effortlessly.
+
+## :wrench: Installation Guide
 
 To run the project locally, follow these steps:
 
-1. Clone the repository.
+1. **Clone the Repository:**
+   - Use the following command to clone the project repository to your local machine:
+     ```bash
+     git clone https://github.com/mirajsankdecha/Certificate-generator-react.git
+     ```
 
-2. Navigate to the project directory.
+2. **Install Dependencies:**
+   - Navigate to the project directory:
+     ```bash
+     cd Certificate-generator-react
+     ```
+   - Install the necessary dependencies:
+     ```bash
+     npm install
+     ```
 
-3. Install the dependencies.
+3. **Start the Application:**
+   - Launch the application by running the following command:
+     ```bash
+     npm start
+     ```
+## :man_astronaut: Show your support
 
-## Usage
+Give a ⭐️ if this project helped you!
 
-1. Start the development server.
+## :page_facing_up: License
 
-2. Open your browser and visit `http://localhost:3000` to access the certificate generator.
+MIT/Massachusetts Institute of Technology(here [LICENSE](https://github.com/mirajsankdecha/Certificate-generator-react/blob/main/LICENSE))
 
-3. Fill in the recipient's details in the provided input fields.
+The Caresure Health Insurance code is licensed by Massachusetts Institute of Technology.
 
-4. Choose a template from the available options.
-
-5. Click the "Generate Certificate" button to generate the certificate with the entered details.
-
-6. The generated certificate will be displayed on the screen, and you can download it by clicking the "Download Certificate" button.
-
-Please note: For the best viewing experience, please open the demo link on a PC or laptop screen.
-
-## Deployment
-
-You can access the deployed version of this project at [Demo Link](https://mirajsankdecha.github.io/Certificate-generator-react/build/).
-
-## Customization
-
-If you want to customize the templates or add new ones, follow these steps:
-
-1. Open the `src/components/Templates.js` file.
-
-2. Add your custom templates or modify the existing ones. You can use Bootstrap classes and HTML/CSS to create the desired layout.
-
-3. Save the file, and the changes will be reflected in the template options in the certificate generator.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## About Imbuesoft LLP
-
-Imbuesoft LLP is a software development company specializing in web and mobile applications. They provide innovative solutions to clients and focus on delivering high-quality products.
-
-## Acknowledgements
-
-I would like to express my gratitude to Dr. Prakash Gujarati for his guidance and support throughout my internship period. His expertise and mentorship have been instrumental in my learning and growth as a React developer.
+By contributing to Caresure Health Insurance, you will be agreeing that your contributions will be licensed under its Massachusetts Institute of Technology(MIT).
