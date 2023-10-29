@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="certificate-generator-react-six.vercel.app" target="_blank">
+  <a href="https://certificate-generator-react-six.vercel.app/" target="_blank">
     <img src="https://github.com/mirajsankdecha/Certificate-generator-react/blob/main/public/logo.png" alt="Certificate Generator" width="300">
   </a>
   <br>
@@ -32,7 +32,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-## :arrow_right: **Live App Demo** : [certificate-generator-react-six.vercel.app](certificate-generator-react-six.vercel.app)
+## :arrow_right: **Live App Demo** : [https://certificate-generator-react-six.vercel.app/](https://certificate-generator-react-six.vercel.app/)
 
 ## :pencil: Introduction
 
