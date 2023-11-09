@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://mirajsankdecha.github.io/Portfolio/build/" target="_blank">
+  <a href="https://portfolio-master-sable-seven.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Miraj Sankdecha Website" />
   </a>
   <a href="https://www.linkedin.com/in/mirajsankdecha/" target="_blank">
